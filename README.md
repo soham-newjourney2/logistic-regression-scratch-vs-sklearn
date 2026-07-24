@@ -61,7 +61,7 @@ To clone and run this repository on your local machine, follow these steps:
 
 ```bash
 git clone [https://github.com/soham-newjourney2/logistic-regression-scratch-vs-sklearn.git](https://github.com/soham-newjourney2/logistic-regression-scratch-vs-sklearn.git)
-cd linear-regression-scratch-vs-sklearn
+cd logistic-regression-scratch-vs-sklearn
 pip install numpy pandas matplotlib seaborn scikit-learn
 jupyter notebook
 ```
