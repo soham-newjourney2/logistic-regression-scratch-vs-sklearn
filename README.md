@@ -60,7 +60,7 @@ Both models were evaluated on an 80/20 train-test split:
 To clone and run this repository on your local machine, follow these steps:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/linear-regression-scratch-vs-sklearn.git](https://github.com/YOUR_USERNAME/linear-regression-scratch-vs-sklearn.git)
+git clone [https://github.com/soham-newjourney2/logistic-regression-scratch-vs-sklearn.git](https://github.com/soham-newjourney2/logistic-regression-scratch-vs-sklearn.git)
 cd linear-regression-scratch-vs-sklearn
 pip install numpy pandas matplotlib seaborn scikit-learn
 jupyter notebook
